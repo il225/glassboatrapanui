@@ -1,5 +1,9 @@
 {
     "name": "worker-entry-point",
     "compatibility_date": "2025-04-08",
-    "main": "src/index.ts"
+    "main": "src/index.ts",
+    "assets": {
+        "directory": "./wp-content"
+        "binding": "ASSETS"
+    }
 }
