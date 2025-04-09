@@ -1,7 +1,7 @@
 {
-    "name": "worker-entry-point",
+    "name": "glassboatrapanui",
     "compatibility_date": "2025-04-08",
-    "main": "src/index.html",
+    "main": "./index.html",
     "assets": {
         "directory": "./wp-content",
         "binding": "ASSETS"
