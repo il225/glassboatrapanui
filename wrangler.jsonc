@@ -1,0 +1,5 @@
+{
+    "name": "worker-entry-point",
+    "compatibility_date": "2025-04-08",
+    "main": "src/index.ts"
+}
