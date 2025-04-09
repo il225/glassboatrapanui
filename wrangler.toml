@@ -1,4 +1,0 @@
-# Top-level configuration
-name = "glassboatrapanui"
-main = "buildoutput/index.html"
-compatibility_date = "2025-04-08"
